@@ -2356,7 +2356,7 @@ input, select, textarea {
 	align-items: center;
 	justify-content: center;
 	width: 4em;  /* same as icon size */
-	height: 4em;
+	height: 5em;
   }
   
   .image-icon img {
