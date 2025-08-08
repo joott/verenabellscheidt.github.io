@@ -2350,6 +2350,21 @@ input, select, textarea {
 				line-height: 1em;
 			}
 
+/* Image icon for Research section */
+.image-icon {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 4em;  /* same as icon size */
+	height: 4em;
+  }
+  
+  .image-icon img {
+	max-width: 80%;  /* keep it inside diamond */
+	max-height: 80%;
+	border-radius: 8px; /* optional */
+  }
+
 /* Image */
 
 	.image {
