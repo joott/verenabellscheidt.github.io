@@ -2049,6 +2049,7 @@ input, select, textarea {
 		font-size: 1.25em;
 		line-height: 1.5em;
 		margin-top: -1em;
+		color: #0f0;
 	}
 
 	header h3 + p {
