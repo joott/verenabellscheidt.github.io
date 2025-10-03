@@ -295,7 +295,6 @@ input, select, textarea {
 /* Added by me: navigation bar */
 /* Make nav horizontal */
 #nav ul {
-	color: #fff
     list-style: none;
     margin: 0;
     padding: 10;
