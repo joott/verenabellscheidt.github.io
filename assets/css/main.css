@@ -2903,7 +2903,8 @@ ul.major-icons li .image {
 	}
 
 		.main.style1 {
-			background: #222;
+			background: #222; /* This is the relevant background!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+			color: #fff;
 		}
 
 		.main.style2 {
