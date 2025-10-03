@@ -2997,7 +2997,7 @@ ul.major-icons li .image {
 
 	#header {
 		padding: 9em 0 9em 0 ;
-		background-color: #4686a0;
+		background-color: #201153;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
 		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #f1b941 5%, #b93fda 30%, #4361c2); /* linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2); */
