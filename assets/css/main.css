@@ -3002,7 +3002,7 @@ ul.major-icons li .image {
 		background-color: #290944b4;
 		color: rgb(255, 204, 77) /* rgba(255, 255, 255, 0.75); */
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #f1b941 7%, #a42ab4 10%, #152148); /* linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2); */
+		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #f1b941 10%, #a42ab4 20%, #152148); /* linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2); */
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
