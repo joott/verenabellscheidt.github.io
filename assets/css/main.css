@@ -3157,10 +3157,10 @@ ul.major-icons li .image {
 			}
 
 		#header:after {
-			-moz-transition: opacity 1s ease;
-			-webkit-transition: opacity 1s ease;
-			-ms-transition: opacity 1s ease;
-			transition: opacity 1s ease;
+			-moz-transition: opacity 0s ease;
+			-webkit-transition: opacity 0s ease;
+			-ms-transition: opacity 0s ease;
+			transition: opacity 0s ease;
 			background-image: linear-gradient(45deg, #4fa49a, #4361c2);
 			content: '';
 			height: 100%;
