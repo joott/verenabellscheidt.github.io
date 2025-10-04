@@ -2139,7 +2139,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #6bd4c8;
+			border-color: #f00; /* 6bd4c8*/
 		}
 
 	select {
