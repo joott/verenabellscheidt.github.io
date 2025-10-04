@@ -308,7 +308,7 @@ input, select, textarea {
     text-decoration: none;
     font-weight: bold;
     color: #ffcc00;           /* match Photon text color */
-    transition: color 0.3s ease;
+    transition: color 0s ease;
 }
 
 #nav ul li a:hover {
