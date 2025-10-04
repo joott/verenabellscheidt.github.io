@@ -3123,14 +3123,14 @@ ul.major-icons li .image {
 			}
 
 		#header .inner {
-			-moz-transition: -moz-transform 1.5s ease, opacity 2s ease;
-			-webkit-transition: -webkit-transform 1.5s ease, opacity 2s ease;
-			-ms-transition: -ms-transform 1.5s ease, opacity 2s ease;
-			transition: transform 1.5s ease, opacity 2s ease;
-			-moz-transition-delay: 0.25s;
-			-webkit-transition-delay: 0.25s;
-			-ms-transition-delay: 0.25s;
-			transition-delay: 0.25s;
+			-moz-transition: -moz-transform 0s ease, opacity 0s ease;
+			-webkit-transition: -webkit-transform 0s ease, opacity 0s ease;
+			-ms-transition: -ms-transform 0s ease, opacity 0s ease;
+			transition: transform 0s ease, opacity 0s ease;
+			-moz-transition-delay: 0s;
+			-webkit-transition-delay: 0s;
+			-ms-transition-delay: 0s;
+			transition-delay: 0s;
 			-moz-transform: scale(1);
 			-webkit-transform: scale(1);
 			-ms-transform: scale(1);
