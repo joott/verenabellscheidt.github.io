@@ -2139,7 +2139,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #ff0; /* 6bd4c8*/
+			border-color: #f00; /* 6bd4c8*/
 		}
 
 	select {
@@ -3015,7 +3015,7 @@ ul.major-icons li .image {
 		}
 
 			#header a:hover {
-				color: #f00;
+				color: #ff0;
 			}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6, #header strong, #header b {
