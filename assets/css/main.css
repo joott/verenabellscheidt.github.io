@@ -2040,7 +2040,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #fff;
+		color: #f00;
 		margin: 0 0 1.5em 0;
 		position: relative;
 	}
@@ -2904,7 +2904,7 @@ ul.major-icons li .image {
 
 		.main.style1 {
 			background: #222; /* This is the relevant background!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-			color: #fff;
+			color: #f0f;
 		}
 
 		.main.style2 {
