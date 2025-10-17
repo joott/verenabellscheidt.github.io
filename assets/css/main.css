@@ -300,7 +300,7 @@ input, select, textarea {
     padding: 10;
     display: flex;           /* horizontal layout */
     gap: 1.5em;               /* space between items */
-    justify-content: flex-end;/* align to the right */
+    justify-content: center /*flex-end;*//* align to the right */
 }
 
 /* Style links */
