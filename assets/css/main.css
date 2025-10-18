@@ -2999,15 +2999,15 @@ ul.major-icons li .image {
 		}
 
 		.main.style2 {
-			background-color: #33333300;
-			color: rgba(255, 255, 255, 0);
+			background-color: #333333;
+			color: rgb(255, 255, 255);
 			background-attachment: fixed,							fixed;
 			background-image: url("images/overlay1.png"), url("../../images/header.jpg");
 			background-size: auto,							cover;
 		}
 
 			.main.style2 a {
-				border-bottom-color: rgba(255, 255, 255, 0);
+				border-bottom-color: rgb(255, 255, 255);
 			}
 
 				.main.style2 a:hover {
