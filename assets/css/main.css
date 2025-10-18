@@ -92,7 +92,7 @@ input, select, textarea {
 			-ms-animation: none !important;
 			animation: none !important;
 			-moz-transition: none !important;
-			-webkit-transition: none !important;
+			-webkit-transition: none !important;	
 			-ms-transition: none !important;
 			transition: none !important;
 		}
@@ -111,7 +111,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px #666;
-		color: #8032ee; /*inherit;*/
+		color: #9463d7; /*inherit;*/
 		text-decoration: none;
 	}
 
