@@ -3287,10 +3287,11 @@ ul.major-icons li .image {
 
 	#footer {
 		padding: 6em 0 6em 0 ;
-		background-color: #4686a0;
+		background-color: #4c1e8d;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #192d6e 10%, #a42ab4 30%, #f1b941);
+		/* background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #192d6e 10%, #a42ab4 30%, #f1b941); */
+		background-image: url("images/overlay1.png"), url("../../images/header.jpg");
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
