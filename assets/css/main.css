@@ -111,13 +111,13 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px #666;
-		color: #9463d7; /*inherit;*/
+		color: rgb(110, 187, 246); /*inherit;*/
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent !important;
-			color: rgb(110, 187, 246);
+			color: #9463d7;
 		}
 
 	strong, b {
