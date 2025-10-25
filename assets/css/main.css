@@ -297,7 +297,7 @@ input, select, textarea {
 #nav ul {
     list-style: none;
     margin: 100;
-    padding: 10;
+    padding: 100;
     display: flex;           /* horizontal layout */
     gap: 1.5em;               /* space between items */
     justify-content: center /*flex-end;*//* align to the right */
