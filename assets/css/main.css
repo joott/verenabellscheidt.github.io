@@ -296,11 +296,14 @@ input, select, textarea {
 /* Make nav horizontal */
 #nav ul {
     list-style: none;
-    margin: 100;
-    padding: 100;
     display: flex;           /* horizontal layout */
     gap: 1.5em;               /* space between items */
-    justify-content: center /*flex-end;*//* align to the right */
+    justify-content: center; /* align to the center */
+    padding-left: 0;
+}
+
+#nav ul li {
+    padding: 0 0.5em;
 }
 
 /* Style links */
